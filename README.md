@@ -8,7 +8,7 @@ My notes about Training Data in Machine Learning algorithms and Signal Intellige
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="training data.jpg" height="170"> 
+<img src="training data.png" height="170"> 
 In machine learning, a common task is the study and construction of algorithms that can learn from and make predictions on data. Such algorithms work by making data-driven predictions or decisions, through building a mathematical model from input data.
 <br /><br />
 The data used to build the final model usually comes from multiple datasets. In particular, three data sets are commonly used in different stages of the creation of the model. To develop the Artificial Intelligence (AI) and Machine Learning (ML) model, a precise training data is required that help algorithms to understand the certain patterns or series of outcomes comes to a given question. And training data can consist texts, images or videos which are mainly labeled to make it recognizable to computer vision and understandable to machines.
